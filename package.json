@@ -1,7 +1,7 @@
 {
   "name": "assign3",
   "version": "1.0.0",
-  "description": "Stanford CS 253 Assignment 3",
+  "description": "CS499/579:S/T Web Security Assignment 3",
   "main": "index.js",
   "scripts": {
     "lint": "standard | snazzy && standard-markdown **/*.md",
