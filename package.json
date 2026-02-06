@@ -7,8 +7,7 @@
     "lint": "standard | snazzy && standard-markdown **/*.md",
     "lint-fix": "standard --fix | snazzy && standard-markdown **/*.md --fix",
     "start": "node index.js",
-    "test": "npm run lint",
-    "watch": "nodemon --ext js,json,css,ejs,md -- --no-open"
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -27,7 +26,6 @@
     "open": "^8.3.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.14",
     "snazzy": "^9.0.0",
     "standard": "^16.0.4",
     "standard-markdown": "^7.1.0"
