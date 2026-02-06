@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/stanford-web-security/assign3/issues"
   },
-  "homepage": "https://github.com/stanford-web-security/assign3#readme",
+  "homepage": "https://github.com/OSU-Web-Security/assign3-fingerprinting#readme",
   "dependencies": {
     "express": "^4.17.1",
     "minimist": "^1.2.5",
